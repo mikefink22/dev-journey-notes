@@ -1,9 +1,3 @@
------
-
-¡Claro que sí\! Aquí tienes la guía de comandos comunes en la terminal, formateada para que puedas exportarla directamente a un archivo Markdown y se vea genial.
-
------
-
 ## **¿Dónde deberías estar posicionado para usar esos comandos?**
 
 Para que los comandos de la terminal funcionen correctamente, siempre debes estar en el **directorio que contiene los archivos o carpetas** sobre los que quieres operar. La terminal siempre trabaja desde tu **directorio actual de trabajo**.
